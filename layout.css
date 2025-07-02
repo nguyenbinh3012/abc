@@ -1,0 +1,14 @@
+.container {
+    display:fex ;
+}
+.sidebar {
+    width: 25%;
+    background-color: white;
+    padding: 20px ;
+}
+.main_content{
+width: 75%;
+padding: 20px ;
+
+}
+    
